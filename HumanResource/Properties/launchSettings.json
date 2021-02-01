@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HumanResource": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
